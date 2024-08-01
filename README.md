@@ -14,7 +14,7 @@ The world of literature, once confined to the hushed corners of libraries and th
 
 To Check API :
 <ul>
-  <li>Spring Postman</li>
+  <li>Postman</li>
 </ul>
 
 #Home Page
