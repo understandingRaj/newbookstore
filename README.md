@@ -1,12 +1,21 @@
 
 <h1>Book Store</h1>
-**Technology Used :**
-Spring Boot
-BootStrap 
-MySql
+<p>WELCOME TO NEW BOOK STORE <br>
+The world of literature, once confined to the hushed corners of libraries and the inviting shelves of bookstores, has undergone a transformative journey. With the advent of technology, the act of reading has evolved, and so has the way we discover and acquire books. Today, we stand at the threshold of a new era, where the magic of storytelling meets the convenience of digital platforms. Welcome to your new bookstor - a portal to endless literary adventures.
+</p>
+
+<h3>Technology Used :</h3>
+<ul>
+  <li>Spring Boot</li>
+  <li>BootStrap</li>
+  <li>MySQL</li>
+  <li></li>
+</ul>
 
 To Check API :
-POSTMAN
+<ul>
+  <li>Spring Postman</li>
+</ul>
 
 #Home Page
 ![image](https://github.com/user-attachments/assets/ddc720d3-62b2-4d7e-95d2-6f5e44517378)
