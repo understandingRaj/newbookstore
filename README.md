@@ -1,10 +1,4 @@
-<style>
-  body{
-    background-color:#ddd;
-  }
-</style>
-<body>
-  
+
 <h1>Book Store</h1>
 <p>
   <h1>WELCOME TO NEW BOOK STORE </h1><br>
@@ -39,7 +33,7 @@ The world of literature, once confined to the hushed corners of libraries and th
 
 ![image](https://github.com/user-attachments/assets/5a01cebb-d5e6-41e9-a4f0-bf5b46e6cb25)
 
-</body>
+
 
 
 
