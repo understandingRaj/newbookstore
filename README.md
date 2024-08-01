@@ -1,6 +1,7 @@
 
 <h1>Book Store</h1>
-<p>WELCOME TO NEW BOOK STORE <br>
+<p>
+  <h1>WELCOME TO NEW BOOK STORE </h1><br>
 The world of literature, once confined to the hushed corners of libraries and the inviting shelves of bookstores, has undergone a transformative journey. With the advent of technology, the act of reading has evolved, and so has the way we discover and acquire books. Today, we stand at the threshold of a new era, where the magic of storytelling meets the convenience of digital platforms. Welcome to your new bookstor - a portal to endless literary adventures.
 </p>
 
@@ -9,7 +10,6 @@ The world of literature, once confined to the hushed corners of libraries and th
   <li>Spring Boot</li>
   <li>BootStrap</li>
   <li>MySQL</li>
-  <li></li>
 </ul>
 
 To Check API :
